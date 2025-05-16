@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro. Novidades em breve....👋
+## Olá, sou o Pedro. Aqui eu compartilho meu projetos e estudos de programação!👋
 
 <!--
 **p3drodosanjos/p3drodosanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
