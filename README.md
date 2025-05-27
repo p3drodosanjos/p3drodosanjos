@@ -34,6 +34,14 @@ Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20
 ### 🤖 Linguagens e Tecnologias
 
 <img 
+    src="https://media.tenor.com/QWyZ0gl_H84AAAAM/mad-cat-fr-lol.gif" 
+    alt="Trabalhando" 
+    align="right" 
+    width="160px" 
+/>
+
+
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -83,6 +91,17 @@ Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
+/>
+          
 <img 
     align="left" 
     alt="GitHub" 
@@ -99,13 +118,12 @@ Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+ 
 
 <br/>
 <br/>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/caminho/para/mad-cat-fr-lol.gif" width="250">
-</p>
+
 
 
 
@@ -122,6 +140,6 @@ Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     />
 
-<br/>
-<br/>
+
+
 
