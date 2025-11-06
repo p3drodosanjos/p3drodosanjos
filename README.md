@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20 anos e sou de Osasco-SP. Concluí o ensino médio no colégio fernão dias pais, com o curso técnico em informática. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Osasco. Sou apaixonado por programação e pelo mundo da tecnologia. Atualmente eu estou em busca da minha primeira vaga de estágio na aréa tech. Aqui no github eu compartilho meus projetos e estudos em programação e em outras áreas de TI
+Olá, Seja Bem Vindo ao meu perfil do Github. Me chamo Pedro dos Anjos, tenho 20 anos e sou de Osasco-SP. Concluí o ensino médio no colégio fernão dias pais, com o curso técnico em informática. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec Osasco. Sou apaixonado por programação e pelo mundo da tecnologia. Atualmente eu estou em busca da minha primeira vaga de estágio na aréa tech. Aqui no github eu compartilho meus projetos e estudos em programação e em outras áreas de TI.
 
 <p align="left">
     <a href="mailto:pedrojasiel18@gmail.com">
